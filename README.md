@@ -27,4 +27,14 @@ _(Optional: if you upload it to GitHub Pages or Replit, include a link here.)_
 🚧 Will revisit to add styling and improve layout
 
 ## 📁 Project Structure
+cat-photo-app/
+├── index.html
+└── README.md
+## 🔗 Resources
 
+- [FreeCodeCamp](https://www.freecodecamp.org/)
+- [MDN Web Docs](https://developer.mozilla.org/en-US/)
+
+---
+
+Feel free to explore more projects in this repo as I continue my learning!
